@@ -1,15 +1,27 @@
-import SundayMoon from '../../images/sundaymoon.png'
+
 import { Link } from "react-router-dom";
+
+import { MoonContainer } from "./moonElements";
+
+import SundayMoon from '../../images/sundaymoon.png'
+import MissedConnectionsImage from '../../images/Missed_Quonnections.jpg'
 
 function MoonComponent() {
   return(
-    <Link to="/lyrics">
-    <img 
-        src={SundayMoon}
-        width={200}
-        height={200}
-        alt="Picture of the Moon"/>
-    </Link>
+    <MoonContainer>
+      <Link to="/lyrics">
+        <img 
+          src={SundayMoon}
+          width={200}
+          height={200}
+          alt="Picture of the Moon"/>
+      </Link>
+      <img 
+        src={MissedConnectionsImage}
+        width={500}
+        height={500}
+        alt="Picture of the author"/>
+    </MoonContainer>
   )
 }
 
