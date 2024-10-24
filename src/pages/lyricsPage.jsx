@@ -1,5 +1,8 @@
-import NavBar from "../components/navBar"
+
 import { useState } from 'react';
+
+import NavBar from "../components/navBar"
+import BlueWordComponent from '../components/blueWordComponent'
 
 function LyricsPage() {
   var songnames = ["SWEATER", "WATER ON FIRE", "HEY GABY", "PUPPET MASTER", "MY LEFT HAND", "WHAT I CAN'T HAVE","SILVER DROPS","TELEPHONE"];
@@ -617,6 +620,7 @@ function LyricsPage() {
   return (
     <div>
     <NavBar/><br/><br/>
+    <BlueWordComponent word='hello'/>
     <div class="lyrics-container">
       <div class="item-img"></div>
       <div class="item-buttons"><ul>{songbuttons}</ul></div>
