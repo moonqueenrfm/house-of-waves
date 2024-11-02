@@ -1,8 +1,7 @@
+import { BlueWordContainer } from "./blueWordElements";
 function BlueWordComponent({word}) {
 	return (
-		<p style={{color:'blue'}}>
-			{word}
-		</p>
+		<BlueWordContainer>{word}</BlueWordContainer>
 	)
 }
 
