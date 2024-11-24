@@ -21,7 +21,9 @@ function MoonComponent() {
         width={500}
         height={500}
         alt="Picture of the author"/>
+      <h1>Missed Quonnections</h1>
     </MoonContainer>
+    
   )
 }
 

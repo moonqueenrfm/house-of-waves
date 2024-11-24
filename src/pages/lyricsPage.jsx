@@ -39,13 +39,13 @@ function LyricsPage() {
   }
   return (
     <div>
-    <NavBar/><br/><br/>
     <BlueWordComponent word='hello'/>
     <div class="lyrics-container">
       <div class="item-img"></div>
       <div class="item-buttons"><ul>{songbuttons}</ul></div>
       <div class="item-lyrics">{lyrics}</div>
     </div>
+    <NavBar/>
     </div>
   )
 }

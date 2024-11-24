@@ -1,12 +1,17 @@
 
 import MoonComponent from '../components/moonComponent'
 import NavBar from '../components/navBar'
+import MusicComponent from '../components/musicComponent'
+import TourComponent from '../components/tourComponent'
+import AboutComponent from "../components/aboutComponent"
 
 function LandingPage() {
   return (
     <div>
       <MoonComponent/>
-      <h1>Missed Quonnections</h1>
+      <MusicComponent/>
+      <TourComponent/>
+      <AboutComponent/>
       <NavBar/>
     </div>
   )

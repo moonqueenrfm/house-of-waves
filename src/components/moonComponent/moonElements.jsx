@@ -8,5 +8,6 @@ export const MoonContainer = styled.div`
 	flex-wrap: wrap;
 	z-index:11;
 	justify-content: center;
+	padding-bottom: 100px;
 	
 `

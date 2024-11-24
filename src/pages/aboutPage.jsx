@@ -1,10 +1,11 @@
 import NavBar from "../components/navBar"
+import AboutComponent from "../components/aboutComponent"
 
 function AboutPage() {
     return (
       <div>
-        bio
-        <NavBar/>
+      <AboutComponent/>
+      <NavBar/>
       </div>
     )
   }

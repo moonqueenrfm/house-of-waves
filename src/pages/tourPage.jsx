@@ -1,16 +1,11 @@
 import NavBar from "../components/navBar"
+import TourComponent from "../components/TourComponent"
 
 function TourPage() {
     return (
       <div>
-        tour
+        <TourComponent/>
         <NavBar/>
-        <table>
-          <tr>
-            <td>Battle of the Bands<br/>Lowbrow Palace</td>
-            <td>January 2025</td>
-          </tr>
-        </table>
       </div>
     )
   }
