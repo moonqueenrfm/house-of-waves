@@ -6,6 +6,7 @@ import MusicPage from './pages/musicPage';
 import TourPage from './pages/tourPage';
 import AboutPage from './pages/aboutPage';
 import LyricsPage from './pages/lyricsPage';
+import StorePage from './pages/storePage';
 
 function App() {
 
@@ -17,6 +18,7 @@ function App() {
         <Route path="/tour" element={<TourPage/>}/>
         <Route path="/about" element={<AboutPage/>}/>
         <Route path="/lyrics" element={<LyricsPage/>}/>
+        <Route path="/store" element={<StorePage/>}/>
       </Routes>
     </Router>
   )

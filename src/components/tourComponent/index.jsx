@@ -6,7 +6,8 @@ function TourComponent(){
         <TourContainer>
         <img 
           src={BOTB}
-          alt="Battle of the bands poster"/>
+          alt="Battle of the bands poster"
+          width="500px"/>
         </TourContainer>
     )
 }

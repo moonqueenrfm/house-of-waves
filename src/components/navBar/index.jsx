@@ -8,7 +8,7 @@ function NavBar () {
       <Link className={'navlink'} to="/music">Music</Link>
       <Link className={'navlink'} to="/tour">Tour</Link>
       <Link className={'navlink'} to="/about">About</Link>
-      <Link className={'navlink'} to="/about">Store</Link>
+      <Link className={'navlink'} to="/store">Store</Link>
     </NavBarListContainer>
   )
 }
