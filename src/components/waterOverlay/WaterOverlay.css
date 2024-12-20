@@ -1,0 +1,65 @@
+.water-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    pointer-events: none;
+    z-index: -1;
+    opacity: 0.3;
+    background: radial-gradient(
+        circle at center,
+        rgba(0, 150, 255, 0.1) 0%,
+        transparent 90%
+    );
+    animation: caustics 8s infinite linear;
+}
+
+.water-overlay::before,
+.water-overlay::after {
+    content: '';
+    position: absolute;
+    width: 200%;
+    height: 200%;
+    top: -50%;
+    left: -50%;
+    background-image: url('../../images/dithered_waves.jpg');
+    opacity: 0.15;
+}
+
+.water-overlay::before {
+    animation: drift 10s infinite linear;
+}
+
+.water-overlay::after {
+    animation: drift2 9s infinite linear;
+}
+
+@keyframes caustics {
+    0% {
+        filter: hue-rotate(0deg) brightness(1);
+    }
+    50% {
+        filter: hue-rotate(180deg) brightness(1.2);
+    }
+    100% {
+        filter: hue-rotate(360deg) brightness(1);
+    }
+}
+
+@keyframes drift {
+    from {
+        transform: rotate(0deg) translateX(100px) rotate(0deg);
+    }
+    to {
+        transform: rotate(360deg) translateX(100px) rotate(-360deg);
+    }
+}
+@keyframes drift2 {
+    from {
+        transform: rotate(360deg) translateX(150px) rotate(-360deg);
+    }
+    to {
+        transform: rotate(0deg) translateX(150px) rotate(0deg);
+    }
+}
