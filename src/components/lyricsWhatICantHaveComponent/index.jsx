@@ -14,7 +14,8 @@ function LyricsWhatICantHaveComponent(){
         E 				     C#7<br/>
         I'm not a sinner I'm just a beginner, Only fall in love for the moment<br/>
         B7					       G#m7<br/>
-        But I take ur bait baby, hook line and sinker, Never know quite where I'm going (but I don't mind)<br/>
+        But I take ur bait baby, hook line and sinker<br/>
+        Never know quite where I'm going (but I don't mind)<br/>
         <br/>
         🌬️CHORUS🌬️<br/>
         🏜️VERSE II 🏜️<br/>

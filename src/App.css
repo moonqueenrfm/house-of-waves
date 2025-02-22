@@ -17,28 +17,33 @@
 .logo.react:hover {
   filter: drop-shadow(0 0 2em #61dafbaa);
 }
-
-.lyrics-container{
+ul {
+  list-style-type: none;
+}
+#lyrics-container {
   display: grid;
+  grid-template-areas:
+  "b a"
+  "c a";
+  grid-template-columns: 1.25fr 4fr;
+  grid-template-rows: 300px 500px;
+  gap: 10px;
 }
-
-.item-img{
-  grid-column-start: 1;
-  grid-column-end: 2;
-  grid-row-start: 1;
-  grid-row-end: 2;
+#lyrics-container > lyricImg {
+  background-color:white;
+  grid-area: c;
 }
-.item-buttons{
-  grid-column-start: 1;
-  grid-column-end: 2;
-  grid-row-start: 2;
-  grid-row-end: 4;
+#lyrics-container > lyricbuttons {
+  grid-area: b;
+  list-style-type: none;
+  text-align: left;
+  background-color: none;
 }
-.item-lyrics{
-  grid-column-start: 2;
-  grid-column-end: 5;
-  grid-row-start: 2;
-  grid-row-end: last-line;
+#lyrics-container > lyricText {
+  grid-area: a;
+  overflow: scroll;
+  text-align: left;
+  padding-left: 40px;
 }
 
 @keyframes logo-spin {

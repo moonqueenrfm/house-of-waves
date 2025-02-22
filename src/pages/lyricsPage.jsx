@@ -19,7 +19,7 @@ function LyricsPage() {
   let songbuttons = []; //each songname will have a corresponding html button
   songnames.forEach((song) =>
     songbuttons.push(
-      <li><button key={song} onClick={() => handleSong(song)}>{song}</button></li>
+      <li><button style={{padding:0}} key={song} onClick={() => handleSong(song)}>{song}</button></li>
     )
   )
   function handleSong(song){
@@ -39,13 +39,13 @@ function LyricsPage() {
   }
   return (
     <div>
-    <BlueWordComponent word='hello'/>
-    <div class="lyrics-container">
-      <div class="item-img"></div>
-      <div class="item-buttons"><ul>{songbuttons}</ul></div>
-      <div class="item-lyrics">{lyrics}</div>
+    <div id="lyrics-container">
+      <lyricButtons><ul>{songbuttons}</ul></lyricButtons>
+      <lyricText>{lyrics}</lyricText>
+      <lyricImg>test</lyricImg>
     </div>
     <NavBar/>
+
     </div>
   )
 }

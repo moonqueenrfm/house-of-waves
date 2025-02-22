@@ -98,7 +98,8 @@ function LyricsMyLeftHandComponent(){
         The ones i see in ruts<br/>
         But the wisest thing I've read is that the truth is lived not taught so<br/>
         <br/>
-        I might get on your nerves and sound like shit in your ears and in my head but i guess<br/>
+        I might get on your nerves and sound like shit in your ears<br/>
+        and in my head but i guess<br/>
         At least I'll still have an empty conscience<br/>
         <br/>
         32bars STACCATO/purdie SHUFFLE<br/>
@@ -112,8 +113,10 @@ function LyricsMyLeftHandComponent(){
         My stupid deft fingers can't do wrong with clarity but I'd like to<br/>
         Pass them the secret between you and me<br/>
         But it never happens<br/>
-        You're never single at the same time as i am, and now that we both are it seems God has other plans<br/>
-        You're never single at the same time as i am, feels like my entire life is a collection of other people's Missed Quonnections<br/>
+        You're never single at the same time as i am,<br/>
+        and now that we both are it seems God has other plans<br/>
+        You're never single at the same time as i am,<br/>
+        feels like my entire life is a collection of other people's Missed Quonnections<br/>
         <br/>
         TRAP BEAT/REGGAE<br/>
         I never took part in all the truths I could have shared<br/>
@@ -131,7 +134,8 @@ function LyricsMyLeftHandComponent(){
         You can always count on a poet to tell the truth<br/>
         I'm somewhat of a poet, i smoke sages too<br/>
         See, the power of memory:<br/>
-        It doesn't matter cause you're not gonna remember listen to me it's not me it's you<br/>
+        It doesn't matter cause you're not gonna remember<br/>
+        listen to me it's not me it's you<br/>
         <br/>
         Stop Letting the intellect rule your heart<br/>
         Maybe step into the wisdom of your body you'll go far<br/>
