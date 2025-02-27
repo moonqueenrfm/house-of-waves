@@ -53,7 +53,8 @@ function LyricsMyLeftHandComponent(){
         JAZZ FEEL<br/>
         Might eat another shroom popsicle<br/>
         Take more psychedelics i call it<br/>
-        Mental health, spiritual wealth, a brief reprieve from this emotional well<br/>
+        Mental health, spiritual wealth<br/>
+        a brief reprieve from this emotional well<br/>
         Can't get away from myself<br/>
         <br/>
         I don't have the hang of life yet<br/>
@@ -62,7 +63,8 @@ function LyricsMyLeftHandComponent(){
         Stop calling me<br/>
         <br/>
         JDILLA<br/>
-        My friend told me to self isolate and I know he might have well intentions<br/>
+        My friend told me to self isolate<br/>
+        and I know he might have well intentions<br/>
         But part of me thinks that he's full of shit<br/>
         And I wanna go out, get drunk n<br/>
         Be with the people and see what life's about<br/>
@@ -81,11 +83,13 @@ function LyricsMyLeftHandComponent(){
         There's so much spiritual work I've yet to do<br/>
         And I've still gotta do but I'd like to get some action<br/>
         <br/>
-        Oooh they just closed the bar i used to work at, they said it's full of criminals<br/>
+        Oooh they just closed the bar i used to work at<br/>
+        they said it's full of criminals<br/>
         I guess that's just you and me my friend<br/>
         We're all Here full of ourselves<br/>
         <br/>
-        Not sure if what we're doing is right or wrong at least I'm trying to see<br/>
+        Not sure if what we're doing is right or wrong<br/>
+        at least I'm trying to see<br/>
         Stop breaking at least<br/>
         I've stopped saying my mom is the worst thing that<br/>
         Title belongs to my ex, fuck you you deserved it<br/>
@@ -96,7 +100,8 @@ function LyricsMyLeftHandComponent(){
         BLASTBEAT/METAL<br/>
         Other people have it out for me,<br/>
         The ones i see in ruts<br/>
-        But the wisest thing I've read is that the truth is lived not taught so<br/>
+        But the wisest thing I've read<br/>
+        is that the truth is lived not taught so<br/>
         <br/>
         I might get on your nerves and sound like shit in your ears<br/>
         and in my head but i guess<br/>
@@ -116,7 +121,8 @@ function LyricsMyLeftHandComponent(){
         You're never single at the same time as i am,<br/>
         and now that we both are it seems God has other plans<br/>
         You're never single at the same time as i am,<br/>
-        feels like my entire life is a collection of other people's Missed Quonnections<br/>
+        feels like my entire life is a collection of other people's<br/>
+        Missed Quonnections<br/>
         <br/>
         TRAP BEAT/REGGAE<br/>
         I never took part in all the truths I could have shared<br/>
@@ -161,7 +167,7 @@ function LyricsMyLeftHandComponent(){
         <br/>
         ACTUAL FUSION<br/>
         Soft folding in to the glory of my mind<br/>
-        She’s always going be back trying to keep me from flying hiiiiigh<br/>
+        She’s always going be back trying to keep me from flying high<br/>
         As i look at all my books<br/>
         I think of all the thieves the liars and the crooks<br/>
         The ones who take from me and say i am not enough<br/>

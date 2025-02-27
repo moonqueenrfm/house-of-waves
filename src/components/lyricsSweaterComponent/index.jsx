@@ -38,7 +38,7 @@ function LyricsSweaterComponent(){
         Is this what it feels like to lose a friend?<br/>
         The ocean, moonlight drives, tripping in the dark<br/>
         Our good times ring through me, sweet bittersweet<br/>
-        "Those are my hippies in the street", you'll always be - here in my heart<br/>
+        "Those are my hippies in the street", you'll always be<br/>
         Here in my heart x8<br/>
         </div>
     )

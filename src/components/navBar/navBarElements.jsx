@@ -9,5 +9,4 @@ export const NavBarListContainer = styled.ul`
 	flex-wrap: wrap;
 	z-index:11;
 	justify-content: center;
-	background-color: black;
 `
