@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Mr+Dafoe&display=swap');
+
 :root {
   font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
   line-height: 1.5;
@@ -21,13 +23,16 @@ a {
 a:hover {
   color: #f29553;
 }
+img{
+  max-width: 340px;
+}
 #deck {
   display: grid;
   grid-template-areas:
   "c"
   "n";
   grid-template-columns: 1fr;
-  grid-template-rows: 800px 20px;
+  grid-template-rows: 650px 30px;
   gap: 10px;
 }
 #deck > cards{
@@ -45,8 +50,9 @@ body {
   min-height: 100vh;
 }
 h1 {
-  font-size: 3.2em;
-  line-height: 1.1;
+  font-family: 'Mr Dafoe', cursive;
+  font-size: 75px;
+  margin: 0;
 }
 button {
   all: unset;
@@ -79,8 +85,8 @@ ul {
   grid-template-areas:
   "b a"
   "c a";
-  grid-template-columns: 1fr 4fr;
-  grid-template-rows: 600px 150px;
+  grid-template-columns: 1.5fr 4fr;
+  grid-template-rows: 500px 100px;
   gap: 10px;
 }
 #lyrics-container > lyricImg {
@@ -91,6 +97,7 @@ ul {
   grid-area: b;
   list-style-type: none;
   text-align: left;
+  font-size: small;
 }
 #lyrics-container > lyricText {
   grid-area: a;

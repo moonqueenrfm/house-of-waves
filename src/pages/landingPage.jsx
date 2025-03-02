@@ -1,5 +1,6 @@
 
 import MoonComponent from '../components/moonComponent'
+import SplashComponent from '../components/splashComponent'
 import NavBar from '../components/navBar'
 import MusicComponent from '../components/musicComponent'
 import TourComponent from '../components/tourComponent'
@@ -13,6 +14,7 @@ function LandingPage() {
       <WaterOverlay/>
       <cards class='hideScroll'>
         <MoonComponent/>
+        <SplashComponent/>
         <MusicComponent/>
         <TourComponent/>
         <AboutComponent/>

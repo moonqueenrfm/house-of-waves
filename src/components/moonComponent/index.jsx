@@ -12,18 +12,12 @@ function MoonComponent() {
       <Link to="/lyrics">
         <img 
           src={SundayMoon}
-          width={200}
-          height={200}
-          alt="Picture of the Moon"/>
+          alt="Picture of the Moon"
+          width={"250px"}
+          style={{marginBottom:"-25px"}}/>
       </Link>
-      <img 
-        src={MissedConnectionsImage}
-        width={500}
-        height={500}
-        alt="Picture of the author"/>
-      <h1>Missed Quonnections</h1>
+      <h1>MoonQueen</h1>
     </MoonContainer>
-    
   )
 }
 
