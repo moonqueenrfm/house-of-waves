@@ -1,8 +1,6 @@
 import styled from 'styled-components'
 
 export const NavBarListContainer = styled.ul`
-	position: fixed;
-	top: 90%;
 	text-align: center;
 	display: flex;
 	flex-direction: row;

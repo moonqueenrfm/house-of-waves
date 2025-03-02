@@ -1,9 +1,11 @@
 import NavBar from "../components/navBar"
 import MusicComponent from '../components/musicComponent'
+import WaterOverlay from '../components/waterOverlay/WaterOverlay';
 
 function MusicPage() {
   return (
-    <div>
+    <div id='deck'>
+      <WaterOverlay/>
       <MusicComponent/>
       <NavBar/>
     </div>

@@ -9,15 +9,16 @@ import WaterOverlay from '../components/waterOverlay/WaterOverlay';
 
 function LandingPage() {
   return (
-    <div>
+    <div id='deck'>
       <WaterOverlay/>
-      <MoonComponent/>
-      <MusicComponent/>
-      <TourComponent/>
-      <AboutComponent/>
-      <StoreComponent/>
+      <cards class='hideScroll'>
+        <MoonComponent/>
+        <MusicComponent/>
+        <TourComponent/>
+        <AboutComponent/>
+        <StoreComponent/>
+      </cards>
       <NavBar/>
-    
     </div> )
 }
 

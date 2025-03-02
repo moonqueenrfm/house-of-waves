@@ -44,12 +44,12 @@ function LyricsPage() {
     }
   }
   return (
-    <div>
+    <div id='deck'>
       <WaterOverlay/>
       <div id="lyrics-container">
         <lyricButtons><ul>{songbuttons}</ul></lyricButtons>
         <lyricText class='hideScroll'>{lyrics}</lyricText>
-        <lyricImg style={{backgroundColor: lyricColor}}>test</lyricImg>
+        <lyricImg style={{backgroundColor: lyricColor}}></lyricImg>
       </div>
       <NavBar/>
     </div>

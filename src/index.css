@@ -7,23 +7,36 @@
   color: rgba(255, 255, 255, 0.87);
   /*background-color: #242424;*/
   background: rgb(0,39,66);
-  background: linear-gradient(180deg, rgba(0,39,66,1) 0%, rgba(18,65,97,1) 80%, rgba(203,126,51,1) 100%);
-
+  background: linear-gradient(180deg, rgb(0, 0, 0, 0.4) 0%, rgb(23, 82, 122) 50%, rgba(53, 59, 179, 0.7) 100%);
   font-synthesis: none;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
-
 a {
   font-weight: 500;
-  color: black;
+  color: rgb(115, 155, 172);
   text-decoration: inherit;
 }
 a:hover {
-  color: #535bf2;
+  color: #f29553;
 }
-
+#deck {
+  display: grid;
+  grid-template-areas:
+  "c"
+  "n";
+  grid-template-columns: 1fr;
+  grid-template-rows: 800px 20px;
+  gap: 10px;
+}
+#deck > cards{
+  grid-area: c;
+  overflow: scroll;
+}
+#deck > NavBar{
+  grid-area: n;
+}
 body {
   margin: 0;
   display: flex;
@@ -31,24 +44,20 @@ body {
   min-width: 320px;
   min-height: 100vh;
 }
-
 h1 {
   font-size: 3.2em;
   line-height: 1.1;
 }
-
 button {
   all: unset;
   cursor: pointer;
 }
-
 #root {
   max-width: 1280px;
   margin: 0 auto;
   padding: 2rem;
   text-align: center;
 }
-
 .logo {
   height: 6em;
   padding: 1.5em;
@@ -63,14 +72,15 @@ button {
 }
 ul {
   list-style-type: none;
+  padding-left: 0;
 }
 #lyrics-container {
   display: grid;
   grid-template-areas:
   "b a"
   "c a";
-  grid-template-columns: 1.25fr 3.5fr;
-  grid-template-rows: 200px 200px;
+  grid-template-columns: 1fr 4fr;
+  grid-template-rows: 600px 150px;
   gap: 10px;
 }
 #lyrics-container > lyricImg {
@@ -95,7 +105,6 @@ ul {
   -ms-overflow-style: none;  /* IE and Edge */
   scrollbar-width: none;  /* Firefox */
 }
-
 @keyframes logo-spin {
   from {
     transform: rotate(0deg);
@@ -104,31 +113,25 @@ ul {
     transform: rotate(360deg);
   }
 }
-
 @media (prefers-reduced-motion: no-preference) {
   a:nth-of-type(2) .logo {
     animation: logo-spin infinite 20s linear;
   }
 }
-
 .card {
   padding: 2em;
 }
-
 .read-the-docs {
   color: #888;
 }
-
 .navlink {
   float: left;
   display: block;
   padding: 8px;
 }
-
 .songtitle{
   font-size: 24px;
 }
-
 @media (prefers-color-scheme: light) {
   :root {
     color: #213547;
