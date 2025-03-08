@@ -32,8 +32,8 @@ img{
   "c"
   "n";
   grid-template-columns: 1fr;
-  grid-template-rows: 650px 30px;
-  gap: 10px;
+  grid-template-rows: 650px 25px;
+  gap: 5px;
 }
 #deck > cards{
   grid-area: c;
@@ -85,8 +85,8 @@ ul {
   grid-template-areas:
   "b a"
   "c a";
-  grid-template-columns: 1.5fr 4fr;
-  grid-template-rows: 500px 100px;
+  grid-template-columns: 2fr 4fr;
+  grid-template-rows: 550px 100px;
   gap: 10px;
 }
 #lyrics-container > lyricImg {
