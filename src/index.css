@@ -112,6 +112,9 @@ ul {
   -ms-overflow-style: none;  /* IE and Edge */
   scrollbar-width: none;  /* Firefox */
 }
+Modal > a {
+  display: none;
+}
 @keyframes logo-spin {
   from {
     transform: rotate(0deg);
