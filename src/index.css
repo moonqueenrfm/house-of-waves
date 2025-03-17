@@ -85,7 +85,7 @@ ul {
   grid-template-areas:
   "b a"
   "c a";
-  grid-template-columns: 2fr 4fr;
+  grid-template-columns: 1fr 5fr;
   grid-template-rows: 550px 100px;
   gap: 10px;
 }

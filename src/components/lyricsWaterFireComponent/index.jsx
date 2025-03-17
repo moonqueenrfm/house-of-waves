@@ -12,13 +12,13 @@ function LyricsWaterFireComponent(){
         Patrón Saint of fuck boys<br/>
         Mother of bastards and hopeless romantics<br/>
         Use my laughter and dumbass antics to<br/>
-        Fuel your dreary nights<br/>
+        <BlueWordComponent word='Fuel'/> your dreary nights<br/>
         And journey through the void<br/>
         <br/>
         (THE VOID)<br/>
         Cm7 Bm7b5 Am7b5<br/>
         Cm7 Bm7b5 Am7b5<br/>
-        I am the hell and the high water,<br/>
+        I am the hell and the high <BlueWordComponent word='water'/>,<br/>
         and i am fucking coming<br/>
         <br/>
         (THE TIDE)<br/>
@@ -26,14 +26,14 @@ function LyricsWaterFireComponent(){
         Am7 Bm7 Cm7<br/>
         I am crazy and I am free<br/>
         And I will pull you under<br/>
-        I will raise the tides and drown you under my flames<br/>
+        I will raise the <BlueWordComponent word='tides'/> and <BlueWordComponent word='drown'/> you under my flames<br/>
         <br/>
         (THE MOON)<br/>
         (THE VOID)<br/>
         I am having so much fun!<br/>
         <br/>
         (THE TIDE)<br/>
-        When you spit "bitch" at me<br/>
+        When you <BlueWordComponent word='spit'/> "bitch" at me<br/>
         Don't forget to put "Intransigent" in front of it<br/>
         And kneel beneath Your Queen<br/>
         <br/>

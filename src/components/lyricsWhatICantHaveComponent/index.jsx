@@ -14,7 +14,7 @@ function LyricsWhatICantHaveComponent(){
         E 				     C#7<br/>
         I'm not a sinner I'm just a beginner, Only fall in love for the moment<br/>
         B7					       G#m7<br/>
-        But I take ur bait baby, hook line and sinker<br/>
+        But I take ur <BlueWordComponent word='bait'/> baby, <BlueWordComponent word='hook'/> <BlueWordComponent word='line'/> and <BlueWordComponent word='sink'/>er<br/>
         Never know quite where I'm going (but I don't mind)<br/>
         <br/>
         🌬️CHORUS🌬️<br/>

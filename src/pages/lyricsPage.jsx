@@ -24,7 +24,7 @@ function LyricsPage() {
 
   songnames.forEach((song) =>
     songbuttons.push(
-      <li><button style={{padding:0}} key={song} onClick={() => handleSong(song)}>{song}</button></li>
+      <li style={{paddingTop:'10px'}}><button key={song} onClick={() => handleSong(song)}>{song}</button></li>
     )
   )
   function handleSong(song){
@@ -49,7 +49,7 @@ function LyricsPage() {
       <div id="lyrics-container">
         <lyricButtons><ul>{songbuttons}</ul></lyricButtons>
         <lyricText class='hideScroll'>{lyrics}</lyricText>
-        <lyricImg style={{backgroundColor: lyricColor}}></lyricImg>
+        {/*<lyricImg style={{backgroundColor: lyricColor}}></lyricImg>*/}
       </div>
       <NavBar/>
     </div>

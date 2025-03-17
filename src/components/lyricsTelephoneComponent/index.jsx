@@ -12,13 +12,13 @@ function LyricsTelephoneComponent() {
         💦VERSE I💦<br/>
         A∆7                D∆7<br/>
         Flashes of feelings form in my mouth<br/>
-        Though I am reelin', words won't come out<br/>
-        Your hands on my body flood the tip of my tongue<br/>
+        Though I am <BlueWordComponent word="reelin'"/>, words won't come out<br/>
+        Your hands on my body <BlueWordComponent word='flood'/> the tip of my tongue<br/>
         Won't you come over, wanna succumb<br/>
         <br/>
         I've never been sober any time we've kissed<br/>
         Cherish the moments together I've missed<br/>
-        Need to create space from dreams in the sand<br/>
+        Need to create space from dreams in the <BlueWordComponent word='sand'/><br/>
         Or you'll see on my face, your whim is my command<br/>
         <br/>
         📞CHORUS📞<br/>
@@ -35,12 +35,12 @@ function LyricsTelephoneComponent() {
         💦VERSE II💦<br/>
         Baby I'm afraid of lookin like a fool or<br/>
         Giving you a heart attack<br/>
-        When you come by i play it cool cause I know<br/>
+        When you come by i play it <BlueWordComponent word='cool'/> cause I know<br/>
         Once I've said it i can't take it back<br/>
         <br/>
         I've never been sober any time we've kissed<br/>
         Cherish the moments together I've missed<br/>
-        I need to create space from dreams in the sand<br/>
+        I need to create space from dreams in the <BlueWordComponent word='sand'/><br/>
         Or you'll see on my face, your whim is my command<br/>
         <br/>
         📞CHORUS📞<br/>
@@ -54,7 +54,7 @@ function LyricsTelephoneComponent() {
         ⛲BRIDGE⛲<br/>
         Bm                D∆7<br/>
         Loose visions lure a blind mind,<br/>
-        Maybe we could fall sometime<br/>
+        Maybe we could <BlueWordComponent word='fall'/> sometime<br/>
         Loose visions lure a blind mind,<br/>
         Not next week and not tonight<br/>
         <br/>

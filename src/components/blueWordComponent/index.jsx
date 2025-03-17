@@ -42,7 +42,7 @@ function BlueWordComponent({word}) {
     };
 
     return (
-        <div>
+        <div style={{display: 'inline-block'}}>
             <div onClick={handleClick}>
 				<BlueWordContainer>{word}</BlueWordContainer>
             </div>

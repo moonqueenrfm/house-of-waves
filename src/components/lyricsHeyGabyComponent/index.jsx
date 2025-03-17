@@ -27,7 +27,7 @@ function LyricsHeyGabyComponent(){
         🌦️🎐VERSE II - SPOKEN WORD 🎐🌦️<br/>
         E                   Am<br/>
         Hey Gaby<br/>
-        Stay hydrated bitch,<br/>
+        Stay <BlueWordComponent word='hydrated'/> bitch,<br/>
         Take a walk, roll a blunt, go outside<br/>
         Touch some grass, climb a tree<br/>
         Do some drugs n shit, it’s alright<br/>
@@ -38,7 +38,7 @@ function LyricsHeyGabyComponent(){
         🌦️VERSE II🌦️<br/>
         Don't worry about blackest night<br/>
         You know I'll never leave your side<br/>
-        Cast your tears and wishes into the moon<br/>
+        Cast your <BlueWordComponent word='tears'/> and wishes into the moon<br/>
         Cause you know she’ll always shine for you<br/>
         <br/>
         🌤️PRE CHORUS 🌤️<br/>

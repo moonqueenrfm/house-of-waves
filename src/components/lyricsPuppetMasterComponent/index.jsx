@@ -38,7 +38,7 @@ function LyricsPuppetMasterComponent(){
         <br/>
         💐VERSE II💐<br/>
         Paranoia says it's all a ploy to rile your ex<br/>
-        My blood in the water’s for competition<br/>
+        My <BlueWordComponent word='blood'/> in the <BlueWordComponent word="water's"/> for competition<br/>
         Why else would you bring rocks to the mountains?<br/>
         Cause i’m dumb and still thank God for fun ideas and loud music<br/>
         <br/>
@@ -58,12 +58,12 @@ function LyricsPuppetMasterComponent(){
         <br/>
         💐VERSE III💐<br/>
         Gotta tear away before Time Moves Slow<br/>
-        Gloss my reactions, shift changes in tone<br/>
+        <BlueWordComponent word='Gloss'/> my reactions, shift changes in tone<br/>
         It’s not that I’m unwitting in that i don't know,<br/>
         But rather unwitting in that i can't control<br/>
         <br/>
         🌷PRECHORUS🌷<br/>
-        So i burn you, lick my fingers, play dumb<br/>
+        So i burn you, <BlueWordComponent word='lick'/> my fingers, play dumb<br/>
         we talk as friends but now you Ache for my touch<br/>
         <br/>
         🥀solos over CHORUS🥀<br/>
@@ -76,7 +76,7 @@ function LyricsPuppetMasterComponent(){
         <br/>
         🌷PRECHORUS🌷<br/>
         You're smart, you read the frenzy written on my face<br/>
-        But i brave the wavy lines by sheer leap of faith<br/>
+        But i brave the <BlueWordComponent word='wavy'/> lines by sheer leap of faith<br/>
         <br/>
         🥀CHORUS🥀<br/>
         Can't lift my eyes up<br/>

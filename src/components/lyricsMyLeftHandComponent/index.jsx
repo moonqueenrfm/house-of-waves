@@ -48,17 +48,17 @@ function LyricsMyLeftHandComponent(){
         Something might just come for me<br/>
         Something might just comfort me<br/>
         <br/>
-        And i don't know if these tears are fear pain or pleasure<br/>
+        And i don't know if these <BlueWordComponent word='tears'/> are fear pain or pleasure<br/>
         🔜<br/>
         JAZZ FEEL<br/>
         Might eat another shroom popsicle<br/>
         Take more psychedelics i call it<br/>
         Mental health, spiritual wealth<br/>
-        a brief reprieve from this emotional well<br/>
+        a brief reprieve from this emotional <BlueWordComponent word='well'/><br/>
         Can't get away from myself<br/>
         <br/>
         I don't have the hang of life yet<br/>
-        I got my fishnets on and the art's on the walls, finally<br/>
+        I got my <BlueWordComponent word='fishnets'/> on and the art's on the walls, finally<br/>
         And I'm not taking your calls<br/>
         Stop calling me<br/>
         <br/>
@@ -66,24 +66,24 @@ function LyricsMyLeftHandComponent(){
         My friend told me to self isolate<br/>
         and I know he might have well intentions<br/>
         But part of me thinks that he's full of shit<br/>
-        And I wanna go out, get drunk n<br/>
+        And I wanna go out, get <BlueWordComponent word='drunk'/> n<br/>
         Be with the people and see what life's about<br/>
         <br/>
         There might be so much taint inside but I'm ready to feel the change<br/>
         Outside of my room, touch on the other parts of my life<br/>
         <br/>
-        And i haven't had sex in 3 months<br/>
+        And i haven't had <BlueWordComponent word='sex'/> in 3 months<br/>
         I'm sick of that shit and i know it's not good for me too<br/>
         I don't wanna just fuck somebody and use them like<br/>
         A little mastur-bear-tory tool<br/>
         <br/>
         SAMBA<br/>
-        Won't you be my lovely sex toy<br/>
+        Won't you be my lovely <BlueWordComponent word='sex'/> toy<br/>
         Won't you be my new distraction<br/>
         There's so much spiritual work I've yet to do<br/>
         And I've still gotta do but I'd like to get some action<br/>
         <br/>
-        Oooh they just closed the bar i used to work at<br/>
+        Oooh they just closed the <BlueWordComponent word='bar'/> i used to work at<br/>
         they said it's full of criminals<br/>
         I guess that's just you and me my friend<br/>
         We're all Here full of ourselves<br/>
@@ -105,7 +105,7 @@ function LyricsMyLeftHandComponent(){
         <br/>
         I might get on your nerves and sound like shit in your ears<br/>
         and in my head but i guess<br/>
-        At least I'll still have an empty conscience<br/>
+        At least I'll still have an empty <BlueWordComponent word='conscience'/><br/>
         <br/>
         32bars STACCATO/purdie SHUFFLE<br/>
         <br/>
@@ -183,7 +183,7 @@ function LyricsMyLeftHandComponent(){
         FAUX END-HALF TIME<br/>
         You are prosperous<br/>
         I live to see the light<br/>
-        That's reflected in your eyes<br/>
+        That's reflected in your <BlueWordComponent word='eyes'/><br/>
         <br/>
         When you catch me staring at a mic<br/>
         Finally see myself as more than just a mind<br/>
